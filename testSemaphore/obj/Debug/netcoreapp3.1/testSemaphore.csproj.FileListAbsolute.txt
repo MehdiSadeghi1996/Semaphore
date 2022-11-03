@@ -1,0 +1,14 @@
+D:\repos\testSemaphore\testSemaphore\bin\Debug\netcoreapp3.1\testSemaphore.exe
+D:\repos\testSemaphore\testSemaphore\bin\Debug\netcoreapp3.1\testSemaphore.deps.json
+D:\repos\testSemaphore\testSemaphore\bin\Debug\netcoreapp3.1\testSemaphore.runtimeconfig.json
+D:\repos\testSemaphore\testSemaphore\bin\Debug\netcoreapp3.1\testSemaphore.runtimeconfig.dev.json
+D:\repos\testSemaphore\testSemaphore\bin\Debug\netcoreapp3.1\testSemaphore.dll
+D:\repos\testSemaphore\testSemaphore\bin\Debug\netcoreapp3.1\testSemaphore.pdb
+D:\repos\testSemaphore\testSemaphore\obj\Debug\netcoreapp3.1\testSemaphore.csproj.AssemblyReference.cache
+D:\repos\testSemaphore\testSemaphore\obj\Debug\netcoreapp3.1\testSemaphore.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\testSemaphore\testSemaphore\obj\Debug\netcoreapp3.1\testSemaphore.AssemblyInfoInputs.cache
+D:\repos\testSemaphore\testSemaphore\obj\Debug\netcoreapp3.1\testSemaphore.AssemblyInfo.cs
+D:\repos\testSemaphore\testSemaphore\obj\Debug\netcoreapp3.1\testSemaphore.csproj.CoreCompileInputs.cache
+D:\repos\testSemaphore\testSemaphore\obj\Debug\netcoreapp3.1\testSemaphore.dll
+D:\repos\testSemaphore\testSemaphore\obj\Debug\netcoreapp3.1\testSemaphore.pdb
+D:\repos\testSemaphore\testSemaphore\obj\Debug\netcoreapp3.1\testSemaphore.genruntimeconfig.cache

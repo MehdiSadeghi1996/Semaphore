@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oweocKiTp4LFj94Lqq6ABHVJ7dFmrGkn9QZMVHm1TRUXU8s6AyJ8T6oL1L3C1vCvcTaSWfHz31sFwplsO9ozgQ==",
+  "success": true,
+  "projectFilePath": "D:\\repos\\testSemaphore\\testSemaphore\\testSemaphore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\m.sadeghi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
